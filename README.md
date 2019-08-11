@@ -14,5 +14,5 @@ If you are like me, you may already know the real pain of validating/testing dat
 2. Define set of rules to control value of each field of the Java Bean. The rules are defined in a JSON file for ease and familiarity.
 3. Run the generator!
 
-### Example
+### Example:
 <comming soon>
